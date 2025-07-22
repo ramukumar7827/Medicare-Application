@@ -2,6 +2,14 @@
 
 Medicare is a full-stack healthcare mobile application built with **Flutter**, **Node.js**, and **MongoDB**. The app enables users to book appointments with doctors, make payments through **Razorpay**, and locate nearby medical professionals using the **Google Geocode Maps API**.
 
+## Demo
+
+Watch the video demonstration of the app below:
+
+https://vimeo.com/1103574547?share=copy
+
+> Replace the link above with your actual YouTube or Google Drive video link.
+
 ## Features
 
 - View and book appointments with nearby registered doctors
@@ -31,8 +39,6 @@ Medicare is a full-stack healthcare mobile application built with **Flutter**, *
 |------------------|----------------|
 | ![](screenshots/payment.png) | ![](screenshots/success.png) |
 
-> Place the above images in a `screenshots/` folder in your project directory.
-
 ## Getting Started
 
 ### Prerequisites
@@ -51,3 +57,4 @@ Medicare is a full-stack healthcare mobile application built with **Flutter**, *
 cd medicare-app
 flutter pub get
 flutter run
+
